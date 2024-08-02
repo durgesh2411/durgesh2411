@@ -22,3 +22,79 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)<br/>
 
+
+
+# Data Structures Dashboard
+
+Welcome to the Data Structures Dashboard! This project aims to provide a comprehensive list of major data structures along with curated links to questions and solutions.
+
+## Table of Contents
+- [Overview](#overview)
+- [Data Structures](#data-structures)
+  - [Array](#array)
+  - [Linked List](#linked-list)
+  - [Stack](#stack)
+  - [Queue](#queue)
+  - [Tree](#tree)
+  - [Graph](#graph)
+  - [Hash Table](#hash-table)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Overview
+
+This repository contains a dashboard with tables listing major data structures. Each data structure has associated questions and solutions links to help you understand and practice them effectively.
+
+## Data Structures
+
+### Array
+| Question | Solution |
+|----------|----------|
+| [Array Question 1](https://example.com/array-question-1) | [Solution 1](https://example.com/solution-1) |
+| [Array Question 2](https://example.com/array-question-2) | [Solution 2](https://example.com/solution-2) |
+
+### Linked List
+| Question | Solution |
+|----------|----------|
+| [Linked List Question 1](https://example.com/linked-list-question-1) | [Solution 1](https://example.com/solution-1) |
+| [Linked List Question 2](https://example.com/linked-list-question-2) | [Solution 2](https://example.com/solution-2) |
+
+### Stack
+| Question | Solution |
+|----------|----------|
+| [Stack Question 1](https://example.com/stack-question-1) | [Solution 1](https://example.com/solution-1) |
+| [Stack Question 2](https://example.com/stack-question-2) | [Solution 2](https://example.com/solution-2) |
+
+### Queue
+| Question | Solution |
+|----------|----------|
+| [Queue Question 1](https://example.com/queue-question-1) | [Solution 1](https://example.com/solution-1) |
+| [Queue Question 2](https://example.com/queue-question-2) | [Solution 2](https://example.com/solution-2) |
+
+### Tree
+| Question | Solution |
+|----------|----------|
+| [Tree Question 1](https://example.com/tree-question-1) | [Solution 1](https://example.com/solution-1) |
+| [Tree Question 2](https://example.com/tree-question-2) | [Solution 2](https://example.com/solution-2) |
+
+### Graph
+| Question | Solution |
+|----------|----------|
+| [Graph Question 1](https://example.com/graph-question-1) | [Solution 1](https://example.com/solution-1) |
+| [Graph Question 2](https://example.com/graph-question-2) | [Solution 2](https://example.com/solution-2) |
+
+### Hash Table
+| Question | Solution |
+|----------|----------|
+| [Hash Table Question 1](https://example.com/hash-table-question-1) | [Solution 1](https://example.com/solution-1) |
+| [Hash Table Question 2](https://example.com/hash-table-question-2) | [Solution 2](https://example.com/solution-2) |
+
+## Contributing
+
+We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+
