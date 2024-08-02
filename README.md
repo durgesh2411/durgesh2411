@@ -45,7 +45,7 @@ This repository contains a dashboard with tables listing major data structures. 
 ## 📚 Data Structures
 
 ### Array
-[![Array](https://img.shields.io/badge/Array-Explore-brightgreen)](Array/README.md)
+[![Array](https://img.shields.io/badge/Array-Explore-brightgreen)](https://github.com/durgesh2411/Data-structures/tree/main/Arrays)
 
 ### Linked List
 [![Linked List](https://img.shields.io/badge/Linked%20List-Explore-brightgreen)](LinkedList/README.md)
