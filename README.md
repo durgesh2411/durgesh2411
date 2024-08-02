@@ -24,11 +24,8 @@
 
 
 
-# Data Structures Dashboard
 
-Welcome to the Data Structures Dashboard! This project aims to provide a comprehensive list of major data structures along with curated links to questions and solutions.
-
-## Table of Contents
+## 📑 Table of Contents
 - [Overview](#overview)
 - [Data Structures](#data-structures)
   - [Array](#array)
@@ -41,60 +38,37 @@ Welcome to the Data Structures Dashboard! This project aims to provide a compreh
 - [Contributing](#contributing)
 - [License](#license)
 
-## Overview
+## 📝 Overview
 
-This repository contains a dashboard with tables listing major data structures. Each data structure has associated questions and solutions links to help you understand and practice them effectively.
+This repository contains a dashboard with tables listing major data structures. Each data structure has associated questions, solutions, company tags, and difficulty levels to help you understand and practice them effectively.
 
-## Data Structures
+## 📚 Data Structures
 
 ### Array
-| Question | Solution |
-|----------|----------|
-| [Array Question 1](https://example.com/array-question-1) | [Solution 1](https://example.com/solution-1) |
-| [Array Question 2](https://example.com/array-question-2) | [Solution 2](https://example.com/solution-2) |
+[![Array](https://img.shields.io/badge/Array-Explore-brightgreen)](Array/README.md)
 
 ### Linked List
-| Question | Solution |
-|----------|----------|
-| [Linked List Question 1](https://example.com/linked-list-question-1) | [Solution 1](https://example.com/solution-1) |
-| [Linked List Question 2](https://example.com/linked-list-question-2) | [Solution 2](https://example.com/solution-2) |
+[![Linked List](https://img.shields.io/badge/Linked%20List-Explore-brightgreen)](LinkedList/README.md)
 
 ### Stack
-| Question | Solution |
-|----------|----------|
-| [Stack Question 1](https://example.com/stack-question-1) | [Solution 1](https://example.com/solution-1) |
-| [Stack Question 2](https://example.com/stack-question-2) | [Solution 2](https://example.com/solution-2) |
+[![Stack](https://img.shields.io/badge/Stack-Explore-brightgreen)](Stack/README.md)
 
 ### Queue
-| Question | Solution |
-|----------|----------|
-| [Queue Question 1](https://example.com/queue-question-1) | [Solution 1](https://example.com/solution-1) |
-| [Queue Question 2](https://example.com/queue-question-2) | [Solution 2](https://example.com/solution-2) |
+[![Queue](https://img.shields.io/badge/Queue-Explore-brightgreen)](Queue/README.md)
 
 ### Tree
-| Question | Solution |
-|----------|----------|
-| [Tree Question 1](https://example.com/tree-question-1) | [Solution 1](https://example.com/solution-1) |
-| [Tree Question 2](https://example.com/tree-question-2) | [Solution 2](https://example.com/solution-2) |
+[![Tree](https://img.shields.io/badge/Tree-Explore-brightgreen)](Tree/README.md)
 
 ### Graph
-| Question | Solution |
-|----------|----------|
-| [Graph Question 1](https://example.com/graph-question-1) | [Solution 1](https://example.com/solution-1) |
-| [Graph Question 2](https://example.com/graph-question-2) | [Solution 2](https://example.com/solution-2) |
+[![Graph](https://img.shields.io/badge/Graph-Explore-brightgreen)](Graph/README.md)
 
 ### Hash Table
-| Question | Solution |
-|----------|----------|
-| [Hash Table Question 1](https://example.com/hash-table-question-1) | [Solution 1](https://example.com/solution-1) |
-| [Hash Table Question 2](https://example.com/hash-table-question-2) | [Solution 2](https://example.com/solution-2) |
+[![Hash Table](https://img.shields.io/badge/Hash%20Table-Explore-brightgreen)](HashTable/README.md)
 
-## Contributing
+## 🤝 Contributing
 
 We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-
