@@ -66,10 +66,10 @@ This repository contains a dashboard with tables listing major data structures. 
 [![Hash Table](https://img.shields.io/badge/Hash%20Table-Explore-brightgreen)]()
 
 ### String
-[![String](https://img.shields.io/badge/Tree-Explore-brightgreen)](https://github.com/durgesh2411/Data-structures/tree/main/Strings)
+[![String](https://img.shields.io/badge/String-Explore-brightgreen)](https://github.com/durgesh2411/Data-structures/tree/main/Strings)
 
 ### Searchg & Sorting
-[![Searchg & Sorting](https://img.shields.io/badge/Tree-Explore-brightgreen)](https://github.com/durgesh2411/Data-structures/tree/main/Sorting%20%26%20Searching)
+[![Searchg & Sorting](https://img.shields.io/badge/Searching&Sorting-Explore-brightgreen)](https://github.com/durgesh2411/Data-structures/tree/main/Sorting%20%26%20Searching)
 
 ## 🤝 Contributing
 
