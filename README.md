@@ -85,19 +85,6 @@ with a strong background in Artificial Intelligence and Machine learning technol
 
 
 
-## 📑 Table of Contents
-- [Overview](#overview)
-- [Data Structures](#data-structures)
-  - [Array](#array)
-  - [Linked List](#linked-list)
-  - [Stack](#stack)
-  - [Queue](#queue)
-  - [Tree](#tree)
-  - [Graph](#graph)
-  - [Hash Table](#hash-table)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 📝 Overview
 
 This repository contains a dashboard with tables listing major data structures. Each data structure has associated questions, solutions, company tags, and difficulty levels to help you understand and practice them effectively.
