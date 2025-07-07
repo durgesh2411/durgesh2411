@@ -103,11 +103,6 @@ with a strong background in Artificial Intelligence and Machine learning technol
 This repository contains a dashboard with tables listing major data structures. Each data structure has associated questions, solutions, company tags, and difficulty levels to help you understand and practice them effectively.
 
 
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
-
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
