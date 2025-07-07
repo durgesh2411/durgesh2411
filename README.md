@@ -102,34 +102,7 @@ with a strong background in Artificial Intelligence and Machine learning technol
 
 This repository contains a dashboard with tables listing major data structures. Each data structure has associated questions, solutions, company tags, and difficulty levels to help you understand and practice them effectively.
 
-## 📚 Data Structures
 
-### Array
-[![Array](https://img.shields.io/badge/Array-Explore-brightgreen)](https://github.com/durgesh2411/Data-structures/tree/main/Arrays)
-
-### Linked List
-[![Linked List](https://img.shields.io/badge/Linked%20List-Explore-brightgreen)](https://github.com/durgesh2411/Data-structures/tree/main/LinkedList)
-
-### Stack
-[![Stack](https://img.shields.io/badge/Stack-Explore-brightgreen)](https://github.com/durgesh2411/Data-structures/tree/main/Stack)
-
-### Queue
-[![Queue](https://img.shields.io/badge/Queue-Explore-brightgreen)](https://github.com/durgesh2411/Data-structures/tree/main/Queue)
-
-### Tree
-[![Tree](https://img.shields.io/badge/Tree-Explore-brightgreen)](https://github.com/durgesh2411/Data-structures/tree/main/Tree)
-
-### Graph
-[![Graph](https://img.shields.io/badge/Graph-Explore-brightgreen)](https://github.com/durgesh2411/Data-structures/tree/main/Graph)
-
-### Hash Table
-[![Hash Table](https://img.shields.io/badge/Hash%20Table-Explore-brightgreen)]()
-
-### String
-[![String](https://img.shields.io/badge/String-Explore-brightgreen)](https://github.com/durgesh2411/Data-structures/tree/main/Strings)
-
-### Searchg & Sorting
-[![Searchg & Sorting](https://img.shields.io/badge/Searching&Sorting-Explore-brightgreen)](https://github.com/durgesh2411/Data-structures/tree/main/Sorting%20%26%20Searching)
 
 ## 🤝 Contributing
 
